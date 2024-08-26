@@ -90,6 +90,6 @@ In case of any issues, check the console output for detailed error messages and 
 ## Working
 
 
-https://github.com/user-attachments/assets/bd424a9d-24ed-45fa-a4dd-2d198382a836
+
 
 
