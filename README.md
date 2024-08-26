@@ -88,6 +88,10 @@ In case of any issues, check the console output for detailed error messages and 
 ---
 
 ## Working
+This is the GUI's operation in a video.
+
+https://github.com/user-attachments/assets/e3cd12a7-0878-4c7f-8600-14c162627197
+
 
 
 
